@@ -1,0 +1,1 @@
+python3 analyze.py $1 $2
